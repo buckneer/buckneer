@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @buckneer
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Java
 - 📫 You can reach me by writing me an email
 
 <!---
